@@ -29,6 +29,6 @@ Includes a 6-panel summary dashboard:
 - Google Colab
 
 ## 🚀 Author
-[Your Name]
+Karan Singh Gaur
 
 *Portfolio Project for Data Analysis using Python*
